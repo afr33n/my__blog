@@ -4,15 +4,15 @@ body{
     
 }
 header{
-    background-color: navy;
+    background-color: black;
     text-align: center;
     padding: 10px;
     font-size: 40px;
     font-family: cursive;
-    color:aquamarine;
+    color:orange;
 }
 section{
-    background-color: maroon;
+    background-color:cyan;
     font: size 5px;
     text-align: center;
     padding: 10px;
